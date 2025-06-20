@@ -1,2 +1,14 @@
-# airbnb-clone-project
-A full-stack web application that replicates Airbnb's core booking and listing features.
+# Airbnb Clone Project
+
+This project is a full-stack clone of the popular accommodation booking platform Airbnb. It allows users to browse property listings, view detailed property info, and complete bookings.
+
+## 🌟 Project Goals
+- Build a functional, user-friendly booking platform
+- Implement responsive UI/UX
+- Gain real-world experience working in teams
+- Follow best practices in frontend and backend development
+
+## ⚙️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript (React)
+- **Version Control:** Git & GitHub
+- **Design Tool:** Figma
